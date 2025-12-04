@@ -3,7 +3,7 @@ CasparCG 2.5.0 Stable
 
 ### Important
 
-CasparCG 2.5 requires AVX2. This is largely due to updated requirements of CEF and is also beneficial to our in-progress HDR support.  
+CasparCG 2.5 requires AVX. This is largely due to updated requirements of CEF and is also beneficial to our in-progress HDR support.  
 Intel CPUs based on Haswell or later support this, which were first released to consumers in 2013, or 2014 for servers.
 
 ### Core
